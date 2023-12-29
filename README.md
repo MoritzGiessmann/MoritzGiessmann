@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Accessibility and cheat sheets
-- 👨‍💻 Find me on https://moritzgiessmann.de
+- 👨‍💻 Personal website: https://moritzgiessmann.de
 
 If some of my code helped you, consider a donation :)
 
