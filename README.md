@@ -2,8 +2,8 @@
 
 - 🔭 I’m currently working on Accessibility
 - I provide https://contrast-ratio.org
-- And I have a blog: https://moritzgiessmann.de/blog
-- 👨‍💻 Personal website: https://moritzgiessmann.de
+- And I have a blog: https://moritzglantz.de/blog
+- 👨‍💻 Personal website: https://moritzglantz.de
 
 If some of my code helped you, consider a donation :)
 
