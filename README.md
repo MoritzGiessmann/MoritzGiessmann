@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Accessibility
-- I provide https://color-contrast.org
+- I provide https://contrast-ratio.org
 - And I have a blog: https://moritzgiessmann.de/blog
 - 👨‍💻 Personal website: https://moritzgiessmann.de
 
